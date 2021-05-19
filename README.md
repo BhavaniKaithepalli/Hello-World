@@ -7,5 +7,5 @@ This is the repository created for learning to use GitHub for projects
 
 ## License
 
-Copyright 2021
+Copyright 2021<br>
 MIT license
